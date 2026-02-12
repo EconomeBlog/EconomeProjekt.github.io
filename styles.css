@@ -326,3 +326,6 @@ h2#welt-handel{
     height:155px;
   }
 }
+
+@media (max-width:450px) {
+  .navbar-center li {font-size:10px;} }
